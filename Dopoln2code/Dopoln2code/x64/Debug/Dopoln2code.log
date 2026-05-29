@@ -1,0 +1,5 @@
+﻿  Dopoln2code.cpp
+C:\Users\Asus\Desktop\уник\ОП\Dopoln2code\Dopoln2code\Dopoln2code.cpp(36,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Asus\Desktop\уник\ОП\Dopoln2code\Dopoln2code\Dopoln2code.cpp(124,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Asus\Desktop\уник\ОП\Dopoln2code\Dopoln2code\Dopoln2code.cpp(125,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Dopoln2code.vcxproj -> C:\Users\Asus\Desktop\уник\ОП\Dopoln2code\x64\Debug\Dopoln2code.exe
